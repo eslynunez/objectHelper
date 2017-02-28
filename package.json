@@ -1,0 +1,31 @@
+{
+  "name": "objectify",
+  "version": "1.0.0",
+  "description": "search and manipulate json objects and arrays. A fork of this gist http://techslides.com/how-to-parse-and-search-json-in-javascript made into a module.",
+  "main": "objectify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eslynunez/objectify.git"
+  },
+  "keywords": [
+    "objects",
+    "json",
+    "arrays",
+    "data",
+    "structures"
+  ],
+  "author": "esly nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eslynunez/objectify/issues"
+  },
+  "homepage": "https://github.com/eslynunez/objectify#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
